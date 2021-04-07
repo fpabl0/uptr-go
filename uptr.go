@@ -1,2 +1,2 @@
-// Package uptr is conformed by utils for working with pointers.
+// Package uptr defines utility functions for working with pointers.
 package uptr
